@@ -1,0 +1,8 @@
+.header {
+  position: fixed;
+  z-index: 999;
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
